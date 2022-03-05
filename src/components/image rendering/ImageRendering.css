@@ -1,0 +1,8 @@
+.img-rendrng {
+  background: black;
+}
+.img {
+  width: 38px;
+  height: 38px;
+  border-radius: 20px;
+}
